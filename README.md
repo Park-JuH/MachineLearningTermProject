@@ -1,6 +1,7 @@
 # Perfume recommendation system
 ---
 ### [Project Objective]
+The sense of smell is closely linked with memory, more so than any of the other senses. We think scents are not just about scents, they are about telling you your personality, or the impression you want to leave people. Many people search for perfumes that suit them and get recommendations from nearby acquaintances and experts. We want to express our scent, so we want to be helpful by creating a system that recommends perfume to people looking for it.
 
 ---
 ### [Dataset]
